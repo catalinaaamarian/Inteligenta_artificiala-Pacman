@@ -1,0 +1,12 @@
+---
+:id: 223588713
+:submitters:
+- :name: Marian Catalina
+  :email: catalina.marian@stud.ubbcluj.ro
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2024-01-21 20:03:05.576626000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2024-01-21 12:03:05.576626000 Z
+:status: processed
+:score: 5.0
